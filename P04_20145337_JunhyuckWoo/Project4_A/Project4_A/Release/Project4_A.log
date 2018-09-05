@@ -1,0 +1,107 @@
+﻿Build started 2015-12-05 오후 7:13:11.
+     1>Project "C:\Users\우준혁\documents\visual studio 2013\Projects\Project4_A\Project4_A\Project4_A.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cube.cpp glusupport.cpp main.cpp plane.cpp vboteapot.cpp
+         cube.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(565): warning C4172: returning address of local variable or temporary
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(595): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(606): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(617): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(637): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(638): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(639): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(724): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(725): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(745): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(747): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(750): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(758): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(765): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+         glusupport.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(565): warning C4172: returning address of local variable or temporary
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(595): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(606): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(617): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(637): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(638): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(639): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(724): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(725): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(745): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(747): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(750): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(758): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(765): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+         main.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(565): warning C4172: returning address of local variable or temporary
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(595): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(606): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(617): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(637): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(638): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(639): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(724): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(725): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(745): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(747): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(750): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(758): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(765): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(56): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(62): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(95): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>main.cpp(109): warning C4305: '-=' : truncation from 'double' to 'float'
+         plane.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(565): warning C4172: returning address of local variable or temporary
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(595): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(606): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(617): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(637): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(638): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(639): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(724): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(725): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(745): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(747): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(750): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(758): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(765): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+         vboteapot.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(565): warning C4172: returning address of local variable or temporary
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(595): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(606): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(617): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(637): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(638): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(639): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(724): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(725): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(745): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(747): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(750): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(758): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_a\project4_a\mat.h(765): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\우준혁\documents\visual studio 2013\Projects\Project4_A\Release\Project4_A.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\우준혁\documents\visual studio 2013\Projects\Project4_A\Release\Project4_A.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\우준혁\documents\visual studio 2013\Projects\Project4_A\Release\Project4_A.lib" /MACHINE:X86 /SAFESEH Release\cube.obj
+         Release\glusupport.obj
+         Release\main.obj
+         Release\plane.obj
+         Release\vboteapot.obj
+         Generating code
+         Finished generating code
+         Project4_A.vcxproj -> C:\Users\우준혁\documents\visual studio 2013\Projects\Project4_A\Release\Project4_A.exe
+     1>Done Building Project "C:\Users\우준혁\documents\visual studio 2013\Projects\Project4_A\Project4_A\Project4_A.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.33

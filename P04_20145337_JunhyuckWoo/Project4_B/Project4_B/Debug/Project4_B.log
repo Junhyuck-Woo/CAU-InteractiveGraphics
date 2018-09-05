@@ -1,0 +1,59 @@
+﻿Build started 2015-12-06 오후 9:34:46.
+     1>Project "C:\Users\우준혁\Documents\Visual Studio 2013\Projects\Project4_B\Project4_B\Project4_B.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main2.cpp
+         main2.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\gl\gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(565): warning C4172: returning address of local variable or temporary
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(595): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(606): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(617): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(637): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(638): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(639): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(724): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(725): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(745): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(747): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(750): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(758): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\mat.h(765): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(130): warning C4244: 'initializing' : conversion from 'double' to 'GLubyte', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(134): warning C4244: '=' : conversion from 'float' to 'GLubyte', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(193): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(204): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(205): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(211): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(216): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(217): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(218): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(223): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(225): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(245): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(254): warning C4244: 'argument' : conversion from 'int' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(255): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(281): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(296): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(302): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(309): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(316): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(323): warning C4244: 'argument' : conversion from 'double' to 'const GLfloat', possible loss of data
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(335): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(344): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(363): warning C4101: 'minus' : unreferenced local variable
+     1>c:\users\우준혁\documents\visual studio 2013\projects\project4_b\project4_b\main2.cpp(363): warning C4101: 'add' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\우준혁\Documents\Visual Studio 2013\Projects\Project4_B\Debug\Project4_B.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\우준혁\Documents\Visual Studio 2013\Projects\Project4_B\Debug\Project4_B.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\우준혁\Documents\Visual Studio 2013\Projects\Project4_B\Debug\Project4_B.lib" /MACHINE:X86 Debug\bmpreader.obj
+         Debug\cube.obj
+         Debug\glusupport.obj
+         Debug\main2.obj
+         Debug\plane.obj
+         Debug\vbomesh.obj
+         Debug\vbotorus.obj
+         Project4_B.vcxproj -> C:\Users\우준혁\Documents\Visual Studio 2013\Projects\Project4_B\Debug\Project4_B.exe
+     1>Done Building Project "C:\Users\우준혁\Documents\Visual Studio 2013\Projects\Project4_B\Project4_B\Project4_B.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58
